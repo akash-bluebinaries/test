@@ -1,0 +1,14 @@
+pandas
+joblib
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+# pickle
+scikit-learn
+sklearn
+
+-e .
