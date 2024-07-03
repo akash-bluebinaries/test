@@ -21,7 +21,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 
-name = 'mlproject',
+name = 'abc',
     version = '0.0.1',
     author = 'akash',
     author_email='akash.dash@bluebinaries.com',
