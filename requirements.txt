@@ -10,5 +10,5 @@ dill
 # pickle
 scikit-learn
 sklearn
-
+flask
 -e .
